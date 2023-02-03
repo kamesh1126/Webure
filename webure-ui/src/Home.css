@@ -1,0 +1,23 @@
+.bg-cover {
+    background-image: url('./assets/Rectangle\ 338.png');
+    background-size: cover;
+    
+  }
+
+  .bg-cover1 {
+    background-image: url('./assets/Rectangle\ 339.png');
+    background-size: cover;
+    color: #f1c0cd;
+  }
+  .bg{
+    background-color: 
+    #2c304f;
+  }
+  .bgorange{
+    background-image: url('./assets/Rectangle\ 338.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .shad{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
